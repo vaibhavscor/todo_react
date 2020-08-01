@@ -1,3 +1,14 @@
+
+DEPLOYED SITE 
+https://mystifying-fermat-c55a07.netlify.app
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
